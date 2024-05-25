@@ -1,1 +1,1 @@
-# Chest Disease pnuemonia Detection Using X-Ray
+# Chest X-Ray Detection
